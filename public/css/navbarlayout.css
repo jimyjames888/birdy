@@ -1,0 +1,22 @@
+body {
+    background:#eee;
+}
+
+html,
+body,
+.view {
+    height:100%;
+}
+
+.navbar-brand {
+    color:#fff !important;
+}
+
+.navbar-nav{
+    flex-direction: row;
+}
+
+.navbar-nav .nav-link {
+    padding-right: 10px;
+    padding-left: 10px;
+}
